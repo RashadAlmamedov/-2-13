@@ -1,0 +1,15 @@
+.reservation__title {
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px; /* 125% */
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  margin-top: 818px;
+}
+
+.reservation__container {
+  margin: 0 auto;
+  width: 1180px;
+}

@@ -1,0 +1,52 @@
+.halls__title {
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px; /* 125% */
+  text-transform: uppercase;
+  padding-bottom: 60px;
+  margin-top: 100px;
+}
+
+.halls__item {
+  background-repeat: no-repeat;
+  width: 580px;
+  height: 349px;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 80px; /* 114.286% */
+  text-transform: uppercase;
+  float: left;
+}
+
+.halls__item:not(:nth-child(2n)) {
+  float: right;
+}
+
+.halls__item_vibes {
+  background-image: url(../img/cassette.jpg);
+  margin-bottom: 20px;
+}
+
+.halls__item_star {
+  background-image: url(../img/game-room.jpg);
+  margin-bottom: 20px;
+}
+
+.halls__item_west {
+  background-image: url(../img/women.jpg);
+}
+
+.halls__item_style {
+  background-image: url(../img/shoes.jpg);
+}
+
+.halls__container {
+  margin: 0 auto;
+  width: 1180px;
+}

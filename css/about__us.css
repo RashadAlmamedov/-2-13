@@ -1,0 +1,57 @@
+.about-us__title {
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px; /* 125% */
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  margin-top: 100px;
+}
+
+.about-us__history {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  width: 500px;
+  margin-left: 680px;
+}
+
+.about-us__author {
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 50px; /* 113.636% */
+  text-transform: uppercase;
+}
+
+.about-us__photo {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  width: 346.282px;
+  display: block;
+  margin-bottom: 100px;
+  margin-left: 101px;
+}
+
+.about-us__container {
+  margin: 0 auto;
+  width: 1180px;
+  min-height: 100px;
+}
+
+.about-us__photo-author {
+  border-radius: 50%;
+}
+
+.about-us__image {
+  float: left;
+}
+
+.about-us__photo-figcaption {
+  margin-top: -80px;
+  margin-left: 110px;
+}
